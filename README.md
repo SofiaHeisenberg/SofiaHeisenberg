@@ -7,6 +7,7 @@ Este espaço reúne projetos que refletem minha trajetória acadêmica e prátic
 Tenho grande interesse por tecnologia e inovação, com foco em automação e sistemas inteligentes. Ao longo da minha formação, venho explorando e desenvolvendo conhecimentos nas seguintes áreas:
 
 
+
 - 🤖 **Robótica e sistemas embarcados**
 - 💻 **Lógica de Programação**
 - ⚙️ **Controle e automação**
