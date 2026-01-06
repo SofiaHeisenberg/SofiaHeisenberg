@@ -1,11 +1,3 @@
-<p align="center">
-  <img src="banner.gif" alt="Banner Engenharia e Tecnologia">
-</p>
-
-
-<p align="center">
-  <img src="perfil.png" width="180" alt="Foto de Sofia Heisenberg">
-</p>
 
 # 🚀 Bem-vindo(a) ao meu GitHub
 
@@ -19,4 +11,8 @@ Tenho grande interesse por tecnologia e inovação, com foco em automação e si
 - 💻 **Lógica de Programação**
 - ⚙️ **Controle e automação**
 - 🧠 **Desenvolvimento de algoritmos e soluções inteligentes**
+<p align="center">
+  <img src="banner.gif" alt="Banner Engenharia e Tecnologia">
+</p>
+
 
