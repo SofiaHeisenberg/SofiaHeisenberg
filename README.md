@@ -1,16 +1,16 @@
-## Hi there 👋
+# 🚀 Bem-vindo(a) ao meu GitHub
 
-<!--
-**SofiaHeisenberg/SofiaHeisenberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! Me chamo **Sofia Heisenberg** e sou estudante de **Engenharia Mecânica**.  
+Este espaço reúne projetos que refletem minha trajetória acadêmica e prática nas áreas de **Engenharia**, **Programação** e **Tecnologia**, conectando lógica, criatividade e resolução de problemas.
 
-Here are some ideas to get you started:
+Tenho grande interesse por tecnologia e inovação, com foco em automação e sistemas inteligentes. Ao longo da minha formação, venho explorando e desenvolvendo conhecimentos nas seguintes áreas:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+- 🤖 **Robótica e sistemas embarcados**
+- 💻 **Lógica de Programação**
+- ⚙️ **Controle e automação**
+- 🧠 **Desenvolvimento de algoritmos e soluções inteligentes**
+<p align="center">
+  <img src="banner.gif" alt="Banner Engenharia e Tecnologia">
+</p>
